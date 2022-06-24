@@ -1,2 +1,2 @@
 # githubparaprogramadores
-prueba de repositorio
+github para desarrolladores
